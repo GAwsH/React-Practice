@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GAwsH/React-Practice/static/css/main.1327b5d0.css",
+    "main.js": "/GAwsH/React-Practice/static/js/main.1179a4b6.js",
+    "index.html": "/GAwsH/React-Practice/index.html",
+    "main.1327b5d0.css.map": "/GAwsH/React-Practice/static/css/main.1327b5d0.css.map",
+    "main.1179a4b6.js.map": "/GAwsH/React-Practice/static/js/main.1179a4b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1327b5d0.css",
+    "static/js/main.1179a4b6.js"
+  ]
+}
